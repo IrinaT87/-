@@ -1,6 +1,6 @@
 import requests
 
-# token="y0_AgAAAAAc0-O4AADLWwAAAADXN203nF4gJAWIRauwDpKQ-Drek3Q6FhM"
+
 from settings import token
 
 class Yandex:
